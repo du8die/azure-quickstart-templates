@@ -18,7 +18,7 @@
     },
     "vmUbuntuOSVersion": {
       "type": "string",
-      "defaultValue": "17.10",
+      "defaultValue": "18.04",
       "allowedValues": [
         "17.04",
         "17.10",
@@ -43,7 +43,7 @@
     },
     "neo4jEdition": {
       "type": "string",
-      "defaultValue": "neo4j",
+      "defaultValue": "neo4j=3.5.5",
       "allowedValues": [
         "neo4j",
         "neo4j-enterprise",

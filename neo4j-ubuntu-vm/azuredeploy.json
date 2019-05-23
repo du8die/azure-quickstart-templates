@@ -21,7 +21,8 @@
       "defaultValue": "17.10",
       "allowedValues": [
         "17.04",
-        "17.10"
+        "17.10",
+        "18.04"
       ],
       "metadata": {
         "description": "Ubuntu OS image version."
